@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "block_io": "^4.2.1",
+    "dotenv": "^16.0.3",
+    "inquirer": "^9.1.4",
+    "sqlite3": "^5.1.4"
+  }
+}
